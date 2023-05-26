@@ -4,3 +4,6 @@ puts name + "さんの体重は" + weight.to_s + "kgです"
 puts "#{name}さんの体重は#{weight}kgです"
 puts "#{name}さんの体重は#{weight * 2}kgです"
 puts '#{name}さんの体重は#{weight}kgです'
+
+tall = ["aaa=>190", "bbb=>180", "ccc=>170"]
+puts tall[2]

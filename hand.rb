@@ -10,3 +10,14 @@ end
 if (hand == "グー") || (hand == "パー")
   puts "出した手はグーまたはパーです"
 end
+
+name = "peperontiinp"
+if name == "onyankopon"
+  puts "Yes!onyankopon!!!"
+elsif name == "onyankopon"
+    puts "Not onyankopon..."
+else
+  puts "onyankopondemonakusonohokademonai...omaehadareda...?"
+end
+
+
