@@ -1,3 +1,3 @@
-puts "つぶあんよりこしあん派"
+puts "つぶあんよりこしあん派ですか？"
 input_key = gets
-puts "入力された内容は#{input_key}"
+puts "#{input_key}"
